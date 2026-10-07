@@ -1,8 +1,8 @@
 ### Hi, I'm Arjan 👋
 
 Software engineer from the Alkmaar area. By day I build software and cloud
-infrastructure at [ZEN Software](https://www.zensoftware.nl) — mostly telephony
-and everything around it. In the evenings I build things that don't have to be
+infrastructure at [ZEN Software](https://www.zensoftware.nl) — mostly developer plaforms, 
+cloud production infra and everything around it. In the evenings I build things that don't have to be
 finished.
 
 **Playable in your browser, no install:**
